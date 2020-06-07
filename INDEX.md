@@ -87,11 +87,6 @@ polished UI examples.
 A repo full of short, specific examples (with animated screenshots!) showing
 commonly used widgets and how to put them to work.
 
-#### [Flutter Challenges](https://github.com/matthew-carroll?tab=repositories&q=flutter_ui_challenge)
-More a GitHub search result than a single repo, Matt Carroll's Flutter UI
-challenges showcase some amazing designs powered by Flutter. Make sure to check
-the accompanying YouTube video so you can watch Matt implement them.
-
 #### [Platform Design](platform_design) _(Flutter team)_
 
 An app designed to look great on both iOS and Android, this sample
@@ -105,6 +100,12 @@ _currently in development_
 A collection of animation examples. The app starts with basic concepts like
 `AnimationController` and `Tween`, then progresses to transitions and
 advanced demos.
+
+#### [Infinite list](infinite_list) _(Flutter team)_
+
+A sample implementation of the infinite list, a common UI pattern in which
+an arbitrarily large, paginated catalog is presented as a seamless
+"infinite" `ListView`.
 
 ## Maps
 
@@ -144,10 +145,10 @@ thread and into an isolate.
 
 ## Demos
 
-#### [Shrine](gallery/gallery/lib/studies/shrine) _(Flutter team)_
+#### [Shrine](https://github.com/flutter/gallery/tree/master/lib/studies/shrine) _(Flutter team)_
 The Shrine demo app from the Flutter team. It's designed to showcase how apps
 can put their own spin on the Material Design components and how to use
 ScopedModel to maintain app state across screens.
 
-#### [Flutter Gallery](gallery) _(Flutter team)_
+#### [Flutter Gallery](https://github.com/flutter/gallery) _(Flutter team)_
 The official Flutter Gallery. There's tons of stuff in here. Just tons.

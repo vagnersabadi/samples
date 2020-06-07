@@ -1,14 +1,13 @@
 # Configuration for https://pub.dartlang.org/packages/peanut
 
 directories:
+- animations/web
+- provider_shopper/web
 - charts/web
-- dad_jokes/web
 - filipino_cuisine/web
-- gallery/web
 - github_dataviz/web
 - particle_background/web
 - slide_puzzle/web
-- spinning_square/web
 - timeflow/web
 - vision_challenge/web
 
